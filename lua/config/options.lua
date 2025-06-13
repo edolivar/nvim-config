@@ -4,4 +4,4 @@
 vim.g.lazyvim_picker = "telescope"
 vim.opt.wrap = true
 vim.opt.linebreak = true
-vim.opt.textwidth = 80
+vim.opt.textwidth = 100
